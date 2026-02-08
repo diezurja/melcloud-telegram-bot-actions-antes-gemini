@@ -1,0 +1,26 @@
+{
+    "Dormitorio": {
+        "power": true,
+        "bloqueo_hasta": 1768387441.215986,
+        "target_temperature": 21.0,
+        "last_change_by": "auto"
+    },
+    "Elisa": {
+        "power": true,
+        "bloqueo_hasta": 1768345990.2039688,
+        "target_temperature": 21.0,
+        "last_change_by": "auto"
+    },
+    "Jimena": {
+        "power": true,
+        "bloqueo_hasta": 1768344464.0567038,
+        "target_temperature": 21.0,
+        "last_change_by": "auto"
+    },
+    "Salón": {
+        "power": true,
+        "bloqueo_hasta": 1768345990.2039688,
+        "target_temperature": 22.5,
+        "last_change_by": "auto"
+    }
+}
